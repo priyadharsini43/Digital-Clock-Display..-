@@ -139,3 +139,7 @@ Practice Java GUI development
 Use in basic desktop applications
 
 Extendable for alarms or timers
+
+
+🔗 Author 
+Priyadharsini P 
