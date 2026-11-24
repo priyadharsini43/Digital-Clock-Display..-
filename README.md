@@ -13,7 +13,7 @@ To create a lightweight, GUI-based digital clock using **Java Swing** that fetch
 ## 🛠️ Technology Used
 - **Language:** Java
 - **Library:** Java Swing (`JFrame`, `JLabel`, `Timer`)
-- **IDE (Optional):** IntelliJ IDEA, Eclipse, NetBeans, or VS Code
+- **IDE (Optional):** IntelliJ IDEA, Eclipse, NetBeans, or VS Code 
 
 ---
 
